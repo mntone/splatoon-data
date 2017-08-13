@@ -1,0 +1,58 @@
+{
+	"turf_war": {
+		"key": "turf_war",
+		"localization": {
+			"de": "Revierkampf",
+			"en-gb": "Turf War",
+			"en-us": "Turf War",
+			"es-419": "Territorial",
+			"es-es": "Territorial",
+			"fr-ca": "Guerre de territoire",
+			"fr-fr": "Guerre de territoire",
+			"it": "Mischia mollusca",
+			"ja": "ナワバリバトル"
+		}
+	},
+	"rainmaker": {
+		"key": "rainmaker",
+		"localization": {
+			"de": "Operation Goldfisch",
+			"en-gb": "Rainmaker",
+			"en-us": "Rainmaker",
+			"es-419": "Pez dorado",
+			"es-es": "Pez dorado",
+			"fr-ca": "Mission bazookarpe",
+			"fr-fr": "Mission Bazookarpe",
+			"it": "Mission Bazookarp",
+			"ja": "ガチホコバトル"
+		}
+	},
+	"splat_zones": {
+		"key": "splat_zones",
+		"localization": {
+			"de": "Herrschaft",
+			"en-gb": "Splat Zones",
+			"en-us": "Splat Zones",
+			"es-419": "Pintazonas",
+			"es-es": "Pintazonas",
+			"fr-ca": "Défense de zone",
+			"fr-fr": "Défense de zone",
+			"it": "Zona splat",
+			"ja": "ガチエリア"
+		}
+	},
+	"tower_control": {
+		"key": "tower_control",
+		"localization": {
+			"de": "Turm-Kommando",
+			"en-gb": "Tower Control",
+			"en-us": "Tower Control",
+			"es-419": "Torreón",
+			"es-es": "Torre",
+			"fr-ca": "Expédition risquée",
+			"fr-fr": "Expédition risquée",
+			"it": "Torre mobile",
+			"ja": "ガチヤグラ"
+		}
+	}
+}

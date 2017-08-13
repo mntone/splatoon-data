@@ -1,0 +1,338 @@
+{
+	"damage_up": {
+		"key": "damage_up",
+		"localization": {
+			"de": "Angriff +",
+			"en-gb": "Damage Up",
+			"en-us": "Damage Up",
+			"es-419": "Ataque mejorado",
+			"es-es": "Superataque",
+			"fr-ca": "Force de frappe",
+			"fr-fr": "Force de frappe",
+			"it": "Attacco +",
+			"ja": "攻撃力アップ"
+		}
+	},
+	"defense_up": {
+		"key": "defense_up",
+		"localization": {
+			"de": "Verteidigung +",
+			"en-gb": "Defense Up",
+			"en-us": "Defense Up",
+			"es-419": "Defensa mejorada",
+			"es-es": "Superdefensa",
+			"fr-ca": "Buvard",
+			"fr-fr": "Buvard",
+			"it": "Difesa +",
+			"ja": "防御力アップ"
+		}
+	},
+	"ink_saver_main": {
+		"key": "ink_saver_main",
+		"localization": {
+			"de": "Hauptverbrauch",
+			"en-gb": "Ink Saver (Main)",
+			"en-us": "Ink Saver (Main)",
+			"es-419": "Ahorro tinta (ppal.)",
+			"es-es": "Tintahorro (ppal.)",
+			"fr-ca": "Encrémenteur (pr.)",
+			"fr-fr": "Encrémenteur (pr.)",
+			"it": "Eco-colore principale",
+			"ja": "インク効率アップ(メイン)"
+		}
+	},
+	"ink_saver_sub": {
+		"key": "ink_saver_sub",
+		"localization": {
+			"de": "Sekundärverbrauch",
+			"en-gb": "Ink Saver (Sub)",
+			"en-us": "Ink Saver (Sub)",
+			"es-419": "Ahorro tinta (sec.)",
+			"es-es": "Tintahorro (sec.)",
+			"fr-ca": "Encrémenteur (sec.)",
+			"fr-fr": "Encrémenteur (sec.)",
+			"it": "Eco-colore secondario",
+			"ja": "インク効率アップ(サブ)"
+		}
+	},
+	"ink_recovery_up": {
+		"key": "ink_recovery_up",
+		"localization": {
+			"de": "Regeneration +",
+			"en-gb": "Ink Recovery Up",
+			"en-us": "Ink Recovery Up",
+			"es-419": "Mejor recarga tinta",
+			"es-es": "Recarga rápida",
+			"fr-ca": "Levée d'encre",
+			"fr-fr": "Levée d'encre",
+			"it": "Recupero colore +",
+			"ja": "インク回復力アップ"
+		}
+	},
+	"run_speed_up": {
+		"key": "run_speed_up",
+		"localization": {
+			"de": "Lauftempo +",
+			"en-gb": "Run Speed Up",
+			"en-us": "Run Speed Up",
+			"es-419": "Carrera acelerada",
+			"es-es": "Supercarrera",
+			"fr-ca": "Course à pied",
+			"fr-fr": "Course à pied",
+			"it": "Velocità +",
+			"ja": "ヒト移動速度アップ"
+		}
+	},
+	"swim_speed_up": {
+		"key": "swim_speed_up",
+		"localization": {
+			"de": "Schwimmtempo +",
+			"en-gb": "Swim Speed Up",
+			"en-us": "Swim Speed Up",
+			"es-419": "Nado acelerado",
+			"es-es": "Superbuceo",
+			"fr-ca": "Turbo-calmar",
+			"fr-fr": "Turbo-calamar",
+			"it": "Velocità nuoto +",
+			"ja": "イカダッシュ速度アップ"
+		}
+	},
+	"special_charge_up": {
+		"key": "special_charge_up",
+		"localization": {
+			"de": "Spezialladezeit +",
+			"en-gb": "Special Charge Up",
+			"en-us": "Special Charge Up",
+			"es-419": "Recarga especial",
+			"es-es": "Recarga especial",
+			"fr-ca": "Jauge spéciale +",
+			"fr-fr": "Jauge spéciale +",
+			"it": "Ricarica speciale +",
+			"ja": "スペシャル増加量アップ"
+		}
+	},
+	"special_duration_up": {
+		"key": "special_duration_up",
+		"localization": {
+			"de": "Spezialdauer",
+			"en-gb": "Special Duration Up",
+			"en-us": "Special Duration Up",
+			"es-419": "Duración especial",
+			"es-es": "Duración especial",
+			"fr-ca": "Durée spéciale +",
+			"fr-fr": "Durée spéciale +",
+			"it": "Durata speciale +",
+			"ja": "スペシャル時間延長"
+		}
+	},
+	"quick_respawn": {
+		"key": "quick_respawn",
+		"localization": {
+			"de": "Schnelle Rückkehr",
+			"en-gb": "Quick Respawn",
+			"en-us": "Quick Respawn",
+			"es-419": "Regeneración rápida",
+			"es-es": "Retorno exprés",
+			"fr-ca": "Sans temps mort",
+			"fr-fr": "Sans temps morts",
+			"it": "Il tempo è colore",
+			"ja": "復活時間短縮"
+		}
+	},
+	"special_saver": {
+		"key": "special_saver",
+		"localization": {
+			"de": "Spezialabzug -",
+			"en-gb": "Special Saver",
+			"en-us": "Special Saver",
+			"es-419": "Ahorro en especial",
+			"es-es": "Reducción especial",
+			"fr-ca": "Baisse spéciale -",
+			"fr-fr": "Baisse spéciale -",
+			"it": "Riduzione speciale -",
+			"ja": "スペシャル減少量ダウン"
+		}
+	},
+	"quick_super_jump": {
+		"key": "quick_super_jump",
+		"localization": {
+			"de": "Sprungladezeit",
+			"en-gb": "Quick Super Jump",
+			"en-us": "Quick Super Jump",
+			"es-419": "Supersalto rápido",
+			"es-es": "Supersalto rápido",
+			"fr-ca": "Aérodynamisme",
+			"fr-fr": "Aérodynamisme",
+			"it": "Salti super e veloci",
+			"ja": "スーパージャンプ時間短縮"
+		}
+	},
+	"bomb_range_up": {
+		"key": "bomb_range_up",
+		"localization": {
+			"de": "Bombenreichweite",
+			"en-gb": "Bomb Range Up",
+			"en-us": "Bomb Range Up",
+			"es-419": "Bombas de alcance",
+			"es-es": "Alargabombas",
+			"fr-ca": "Bombe longue portée",
+			"fr-fr": "Bras long",
+			"it": "Gittata bombe +",
+			"ja": "ボム飛距離アップ"
+		}
+	},
+	"opening_gambit": {
+		"key": "opening_gambit",
+		"localization": {
+			"de": "Startvorteil",
+			"en-gb": "Opening Gambit",
+			"en-us": "Opening Gambit",
+			"es-419": "Acelerón de salida",
+			"es-es": "Acelerón de salida",
+			"fr-ca": "Départ toute allure",
+			"fr-fr": "Chapeaux de roue",
+			"it": "Partenza a razzo",
+			"ja": "スタートダッシュ"
+		}
+	},
+	"last_ditch_effort": {
+		"key": "last_ditch_effort",
+		"localization": {
+			"de": "Endspurt",
+			"en-gb": "Last-Ditch Effort",
+			"en-us": "Last-Ditch Effort",
+			"es-419": "Último recurso",
+			"es-es": "Sprint Final",
+			"fr-ca": "Ultime sursaut",
+			"fr-fr": "Ultime sursaut",
+			"it": "Splash Finale",
+			"ja": "ラストスパート"
+		}
+	},
+	"tenacity": {
+		"key": "tenacity",
+		"localization": {
+			"de": "Zähigkeit",
+			"en-gb": "Tenacity",
+			"en-us": "Tenacity",
+			"es-419": "Tenacidad",
+			"es-es": "Ventaja",
+			"fr-ca": "Ténacité",
+			"fr-fr": "Justice",
+			"it": "Tenacia",
+			"ja": "逆境強化"
+		}
+	},
+	"comeback": {
+		"key": "comeback",
+		"localization": {
+			"de": "Stärkere Rückkehr",
+			"en-gb": "Comeback",
+			"en-us": "Comeback",
+			"es-419": "Remonte",
+			"es-es": "Remontada",
+			"fr-ca": "Retour",
+			"fr-fr": "Come-back",
+			"it": "Gran ritorno",
+			"ja": "カムバック"
+		}
+	},
+	"cold_blooded": {
+		"key": "cold_blooded",
+		"localization": {
+			"de": "Phantom",
+			"en-gb": "Cold Blooded",
+			"en-us": "Cold Blooded",
+			"es-419": "Sangre fría",
+			"es-es": "Invisibilidad",
+			"fr-ca": "Furtivité",
+			"fr-fr": "Furtivité",
+			"it": "Nascondino",
+			"ja": "マーキングガード"
+		}
+	},
+	"ninja_squid": {
+		"key": "ninja_squid",
+		"localization": {
+			"de": "Tintenfisch-Ninja",
+			"en-gb": "Ninja Squid",
+			"en-us": "Ninja Squid",
+			"es-419": "Ninjalamar",
+			"es-es": "Ninjalamar",
+			"fr-ca": "Ninjalmar",
+			"fr-fr": "Ninjalamar",
+			"it": "Calamaro ninja",
+			"ja": "イカニンジャ"
+		}
+	},
+	"haunt": {
+		"key": "haunt",
+		"localization": {
+			"de": "Rache",
+			"en-de": "Haunt",
+			"en-us": "Haunt",
+			"es-419": "Resentimiento",
+			"es-es": "Venganza",
+			"fr-ca": "Vengeance",
+			"fr-fr": "Vengeance",
+			"it": "Vendetta",
+			"ja": "うらみ"
+		}
+	},
+	"recon": {
+		"key": "recon",
+		"localization": {
+			"de": "Aufklärung",
+			"en-gb": "Recon",
+			"en-us": "Recon",
+			"es-419": "Reconocimiento",
+			"es-es": "Reconocimiento",
+			"fr-ca": "Radar de départ",
+			"fr-fr": "Radar de départ",
+			"it": "Ricognizione",
+			"ja": "スタートレーダー"
+		}
+	},
+	"bomb_sniffer": {
+		"key": "bomb_sniffer",
+		"localization": {
+			"de": "Bombenschnüffler",
+			"en-gb": "Bomb Sniffer",
+			"en-us": "Bomb Sniffer",
+			"es-419": "Buscabombas",
+			"es-es": "Buscabombas",
+			"fr-ca": "Détecte-pièges",
+			"fr-fr": "Chasse-piège",
+			"it": "Annusabombe",
+			"ja": "ボムサーチ"
+		}
+	},
+	"ink_resistance_up": {
+		"key": "ink_resistance_up",
+		"localization": {
+			"de": "Tintentoleranz",
+			"en-gb": "Ink Resistance Up",
+			"en-us": "Ink Resistance Up",
+			"es-419": "Impermeabilidad",
+			"es-es": "Impermeabilidad",
+			"fr-ca": "Pieds au sec",
+			"fr-fr": "Réception à l'encre +",
+			"it": "Impermeabilità",
+			"ja": "安全シューズ"
+		}
+	},
+	"stealth_jump": {
+		"key": "stealth_jump",
+		"localization": {
+			"de": "Sprunginfiltration",
+			"en-gb": "Stealth Jump",
+			"en-us": "Stealth Jump",
+			"es-419": "Supersalto invisible",
+			"es-es": "Supersalto invisible",
+			"fr-ca": "Super saut invisible",
+			"fr-fr": "Réception réussie",
+			"it": "Salto al buio",
+			"ja": "ステルスジャンプ"
+		}
+	}
+}

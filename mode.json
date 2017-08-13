@@ -1,0 +1,71 @@
+{
+	"regular_battle": {
+		"key": "regular_battle",
+		"localization": {
+			"de": "Standardkampf",
+			"en-gb": "Regular Battle",
+			"en-us": "Regular Battle",
+			"es-419": "Combate amistoso",
+			"es-es": "Combate amistoso",
+			"fr-ca": "Match classique",
+			"fr-fr": "Match classique",
+			"it": "Partita amichevole",
+			"ja": "レギュラーマッチ"
+		}
+	},
+	"ranked_battle": {
+		"key": "ranked_battle",
+		"localization": {
+			"de": "Rangkampf",
+			"en-gb": "Ranked Battle",
+			"en-us": "Ranked Battle",
+			"es-419": "Combate competitivo",
+			"es-es": "Combate competitivo",
+			"fr-ca": "Match pro",
+			"fr-fr": "Match pro",
+			"it": "Partita pro",
+			"ja": "ガチマッチ"
+		}
+	},
+	"splatfest_battle": {
+		"key": "splatfest_battle",
+		"localization": {
+			"de": "Splatfestkampf",
+			"en-gb": "Splatfest Battle",
+			"en-us": "Splatfest Battle",
+			"es-419": "Combate temático",
+			"es-es": "Combate temático",
+			"fr-ca": "Festmatch",
+			"fr-fr": "Festimatch",
+			"it": "Partita tematica",
+			"ja": "フェスマッチ"
+		}
+	},
+	"private_battle": {
+		"key": "private_battle",
+		"localization": {
+			"de": "Privater Kampf",
+			"en-gb": "Private Battle",
+			"en-us": "Private Battle",
+			"es-419": "Combate privado",
+			"es-es": "Combate privado",
+			"fr-ca": "Match privé",
+			"fr-fr": "Match privé",
+			"it": "Partita privata",
+			"ja": "プライベートマッチ"
+		}
+	},
+	"squad_battle": {
+		"key": "squad_battle",
+		"localization": {
+			"de": "Teamkampf",
+			"en": "Squad Battle",
+			"es-419": "Combate en equipo",
+			"es-es": "Combate en equipo",
+			"fr-ca": "Match en groupes",
+			"fr-fr": "Match en groupe",
+			"it": "Partita di gruppo",
+			"ja": "タッグマッチ"
+		}
+	}
+}

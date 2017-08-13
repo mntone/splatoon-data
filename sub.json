@@ -1,0 +1,142 @@
+{
+	"splat_bomb": {
+		"key": "splat_bomb",
+		"localization": {
+			"de": "Klecks-Bombe",
+			"en-gb": "Splat Bomb",
+			"en-us": "Splat Bomb",
+			"es-419": "Plasbomba",
+			"es-es": "Bomba básica",
+			"fr-ca": "Bombe splash",
+			"fr-fr": "Bombe splash",
+			"it": "Bomba splash",
+			"ja": "スプラッシュボム"
+		}
+	},
+	"suction_bomb": {
+		"key": "suction_bomb",
+		"localization": {
+			"de": "Haftbombe",
+			"en-gb": "Suction Bomb",
+			"en-us": "Suction Bomb",
+			"es-419": "Bomba pepajosa",
+			"es-es": "Bomba ventosa",
+			"fr-ca": "Bombe gluante",
+			"fr-fr": "Bombe gluante",
+			"it": "Appiccibomba",
+			"ja": "キューバンボム"
+		}
+	},
+	"brust_bomb": {
+		"key": "brust_bomb",
+		"localization": {
+			"de": "Insta-Bombe",
+			"en-gb": "Brust Bomb",
+			"en-us": "Brust Bomb",
+			"es-419": "Globo entintado",
+			"es-es": "Bomba rápida",
+			"fr-ca": "Bombe ballon",
+			"fr-fr": "Bombe ballon",
+			"it": "Granata",
+			"ja": "クイックボム"
+		}
+	},
+	"seeker": {
+		"key": "seeker",
+		"localization": {
+			"de": "Spürbombe",
+			"en-gb": "Seeker",
+			"en-us": "Seeker",
+			"es-419": "Bomba lancha",
+			"es-es": "Bomba guiada",
+			"fr-ca": "Bombe radar",
+			"fr-fr": "Traqueur",
+			"it": "Bomba a ricerca",
+			"ja": "チェイスボム"
+		}
+	},
+	"ink_mine": {
+		"key": "ink_mine",
+		"localization": {
+			"de": "Tintenmine",
+			"en-gb": "Ink Mine",
+			"en-us": "Ink Mine",
+			"es-419": "Mina de tinta",
+			"es-es": "Bomba trampa",
+			"fr-ca": "Mine d'encre",
+			"fr-fr": "Mine",
+			"it": "Mina",
+			"ja": "トラップ"
+		}
+	},
+	"disruptor": {
+		"key": "disruptor",
+		"localization": {
+			"de": "Sepitox-Bombe",
+			"en-gb": "Disruptor",
+			"en-us": "Disruptor",
+			"es-419": "Bomba aturdidora",
+			"es-es": "Bola aturdidora",
+			"fr-ca": "Fiole toxique",
+			"fr-fr": "Fiole toxique",
+			"it": "Fiala tossica",
+			"ja": "ポイズンボール"
+		}
+	},
+	"point_sensor": {
+		"key": "point_sensor",
+		"localization": {
+			"de": "Detektor",
+			"en-gb": "Point Sensor",
+			"en-us": "Point Sensor",
+			"es-419": "Rastreador",
+			"es-es": "Rastreador",
+			"fr-ca": "Détecteur",
+			"fr-fr": "Détecteur",
+			"it": "Cimice",
+			"ja": "ポイントセンサー"
+		}
+	},
+	"splash_wall": {
+		"key": "splash_wall",
+		"localization": {
+			"de": "Tintenwall",
+			"en-gb": "Splash Wall",
+			"en-us": "Splash Wall",
+			"es-419": "Barricada",
+			"es-es": "Telón de tinta",
+			"fr-ca": "Mur d'encre",
+			"fr-fr": "Mur d'encre",
+			"it": "Muro di colore",
+			"ja": "スプラッシュシールド"
+		}
+	},
+	"sprinkler": {
+		"key": "sprinkler",
+		"localization": {
+			"de": "Sprinkler",
+			"en-gb": "Sprinkler",
+			"en-us": "Sprinkler",
+			"es-419": "Aspersor",
+			"es-es": "Aspersor",
+			"fr-ca": "Gicleur",
+			"fr-fr": "Fontaine",
+			"it": "Spruzzatore",
+			"ja": "スプリンクラー"
+		}
+	},
+	"squid_beakon": {
+		"key": "squid_beakon",
+		"localization": {
+			"de": "Sprungboje",
+			"en-gb": "Squid Beakon",
+			"en-us": "Squid Beakon",
+			"es-419": "Baliza",
+			"es-es": "Baliza transportadora",
+			"fr-ca": "Balise de saut",
+			"fr-fr": "Balise de saut",
+			"it": "Trasferitore",
+			"ja": "ジャンプビーコン"
+		}
+	}
+}

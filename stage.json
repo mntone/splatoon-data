@@ -1,0 +1,242 @@
+{
+	"urchin_underpass": {
+		"key": "urchin_underpass",
+		"localization": {
+			"de": "Dekabahnstation",
+			"en-gb": "Urchin Underpass",
+			"en-us": "Urchin Underpass",
+			"es-419": "Parque Viaducto",
+			"es-es": "Parque Viaducto",
+			"fr-ca": "Passage Turbot",
+			"fr-fr": "Passage Turbot",
+			"it": "Periferia urbana",
+			"ja": "デカライン高架下"
+		},
+		"released_at": "2015-05-28T00:00:00Z"
+	},
+	"walleye_warehouse": {
+		"key": "walleye_warehouse",
+		"localization": {
+			"de": "Kofferfisch-Lager",
+			"en-gb": "Walleye Warehouse",
+			"en-us": "Walleye Warehouse",
+			"es-419": "Almacén Rodaballo",
+			"es-es": "Almacén Rodaballo",
+			"fr-ca": "Encrepôt",
+			"fr-fr": "Encrepôt",
+			"it": "Magazzino",
+			"ja": "ハコフグ倉庫"
+		},
+		"released_at": "2015-05-28T00:00:00Z"
+	},
+	"saltspray_rig": {
+		"key": "saltspray_rig",
+		"localization": {
+			"de": "Bohrinsel Nautilus",
+			"en-gb": "Saltspray Rig",
+			"en-us": "Saltspray Rig",
+			"es-419": "Plataforma Gaviota",
+			"es-es": "Plataforma Gaviota",
+			"fr-ca": "Plate-forme Mouette",
+			"fr-fr": "Station Doucebrise",
+			"it": "Raffineria",
+			"ja": "シオノメ油田"
+		},
+		"released_at": "2015-05-28T00:00:00Z"
+	},
+	"arowana_mall": {
+		"key": "arowana_mall",
+		"localization": {
+			"de": "Arowana-Center",
+			"en-gb": "Arowana Mall",
+			"en-us": "Arowana Mall",
+			"es-419": "Plazuela del Calamar",
+			"es-es": "Plazuela del Calamar",
+			"fr-ca": "Centre Arowana",
+			"fr-fr": "Centre Arowana",
+			"it": "Centro commerciale",
+			"ja": "アロワナモール"
+		},
+		"released_at": "2015-05-28T00:00:00Z"
+	},
+	"blackbelly_skatepark": {
+		"key": "blackbelly_skatepark",
+		"localization": {
+			"de": "Punkasius-Skatepark",
+			"en-gb": "Blackbelly Skatepark",
+			"en-us": "Blackbelly Skatepark",
+			"es-419": "Parque Lubina",
+			"es-es": "Parque Lubina",
+			"fr-ca": "Plancho Mako",
+			"fr-fr": "Skatepark Mako",
+			"it": "Pista Polposkate",
+			"ja": "Ｂバスパーク"
+		},
+		"released_at": "2015-05-28T00:00:00Z"
+	},
+	"camp_triggerfish": {
+		"key": "camp_triggerfish",
+		"localization": {
+			"de": "Camp Schützenfisch",
+			"en-gb": "Camp Triggerfish",
+			"en-us": "Camp Triggerfish",
+			"es-419": "Campamento Arowana",
+			"es-es": "Campamento Arowana",
+			"fr-ca": "Hippo-Camping",
+			"fr-fr": "Hippo-Camping",
+			"it": "Campeggio Totan",
+			"ja": "モンガラキャンプ場"
+		},
+		"released_at": "2015-07-25T02:00:00Z"
+	},
+	"port_mackerel": {
+		"key": "port_mackerel",
+		"localization": {
+			"de": "Heilbutt-Hafen",
+			"en-gb": "Port Mackerel",
+			"en-us": "Port Mackerel",
+			"es-419": "Puerto Jurel",
+			"es-es": "Puerto Jurel",
+			"fr-ca": "Docks Haddock",
+			"fr-fr": "Docks Haddock",
+			"it": "Porto Polpo",
+			"ja": "ホッケふ頭"
+		},
+		"released_at": "2015-06-02T02:00:00Z"
+	},
+	"kelp_dome": {
+		"key": "kelp_dome",
+		"localization": {
+			"de": "Tümmlerkuppel",
+			"en-gb": "Kelp Dome",
+			"en-us": "Kelp Dome",
+			"es-419": "Jardín botánico",
+			"es-es": "Jardín botánico",
+			"fr-ca": "Serre Goémon",
+			"fr-fr": "Serre Goémon",
+			"it": "Serra di alghe",
+			"ja": "モズク農園"
+		},
+		"released_at": "2015-06-11T02:00:00Z"
+	},
+	"moray_towers": {
+		"key": "moray_towers",
+		"localization": {
+			"de": "Muränentürme",
+			"en-gb": "Moray Towers",
+			"en-us": "Moray Towers",
+			"es-419": "Torres Merluza",
+			"es-es": "Torres Merluza",
+			"fr-ca": "Tours Girelle",
+			"fr-fr": "Tours Girelle",
+			"it": "Torri cittadine",
+			"ja": "タチウオパーキング"
+		},
+		"released_at": "2015-07-11T02:00:00Z"
+	},
+	"bluefin_depot": {
+		"key": "bluefin_depot",
+		"localization": {
+			"de": "Blauflossen-Depot",
+			"en-gb": "Bluefin Depot",
+			"en-us": "Bluefin Depot",
+			"es-419": "Mina costera",
+			"es-es": "Mina costera",
+			"fr-ca": "Ruines marines",
+			"fr-fr": "Mine marine",
+			"it": "Molo Mollusco",
+			"ja": "ネギトロ炭鉱"
+		},
+		"released_at": "2015-06-20T02:00:00Z"
+	},
+	"flounder_heights": {
+		"key": "flounder_heights",
+		"localization": {
+			"de": "Schollensiedlung",
+			"en-gb": "Flounder Heights",
+			"en-us": "Flounder Heights",
+			"es-419": "Complejo Medusa",
+			"es-es": "Complejo Medusa",
+			"fr-ca": "Appartements Filament",
+			"fr-fr": "Lotissement Filament",
+			"it": "Cime sogliolose",
+			"ja": "ヒラメが丘団地"
+		},
+		"released_at": "2015-08-21T02:00:00Z"
+	},
+	"hammerhead_bridge": {
+		"key": "hammerhead_bridge",
+		"localization": {
+			"de": "Makrelenbrücke",
+			"en-gb": "Hammerhead Bridge",
+			"en-us": "Hammerhead Bridge",
+			"es-419": "Puente Salmón",
+			"es-es": "Puente Salmón",
+			"fr-ca": "Pont Esturgeon",
+			"fr-fr": "Pont Esturgeon",
+			"it": "Ponte Sgombro",
+			"ja": "マサバ海峡大橋"
+		},
+		"released_at": "2015-09-18T02:00:00Z"
+	},
+	"museum_d_alfonsino": {
+		"key": "museum_d_alfonsino",
+		"localization": {
+			"de": "Pinakoithek",
+			"en-gb": "Museum d'Alfonsino",
+			"en-us": "Museum d'Alfonsino",
+			"es-419": "Museo del Pargo",
+			"es-es": "Museo del Pargo",
+			"fr-ca": "Galeries Guppy",
+			"fr-fr": "Galeries Guppy",
+			"it": "Museo di Cefalò",
+			"ja": "キンメダイ美術館"
+		},
+		"released_at": "2015-11-14T02:00:00Z"
+	},
+	"mahimahi_resort": {
+		"key": "mahimahi_resort",
+		"localization": {
+			"de": "Mahi-Mahi-Resort",
+			"en-gb": "Mahi-Mahi Resort",
+			"en-us": "Mahi-Mahi Resort",
+			"es-419": "Spa Cala Bacalao",
+			"es-es": "Spa Cala Bacalao",
+			"fr-ca": "Spa C-ta-C",
+			"fr-fr": "Club Ca$halot",
+			"it": "Villanguilla",
+			"ja": "マヒマヒリゾート&スパ"
+		},
+		"released_at": "2015-12-04T02:00:00Z"
+	},
+	"piranha_pit": {
+		"key": "piranha_pit",
+		"localization": {
+			"de": "Karten Steinköhler-Grube",
+			"en-gb": "Piranha Pit",
+			"en-us": "Piranha Pit",
+			"es-419": "Cantera Tintorera",
+			"es-es": "Cantera Tintorera",
+			"fr-ca": "Carrières Caviar",
+			"fr-fr": "Carrière Caviar",
+			"it": "Miniera d'Orata",
+			"ja": "ショッツル鉱山"
+		},
+		"released_at": "2015-12-29T02:00:00Z"
+	},
+	"anchov_games": {
+		"key": "anchov_games",
+		"localization": {
+			"de": "Anchobit Games HQ",
+			"en-gb": "Ancho-V Games",
+			"en-us": "Ancho-V Games",
+			"es-419": "Estudios Esturión",
+			"es-es": "Estudios Esturión",
+			"fr-ca": "Tentatec Studio",
+			"fr-fr": "Tentatec Studio",
+			"it": "AcciuGames",
+			"ja": "アンチョビットゲームズ"
+		},
+		"released_at": "2016-01-22T02:00:00Z"
+	}
+}

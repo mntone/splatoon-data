@@ -1,0 +1,240 @@
+{
+	"squidforce": {
+		"key": "squidforce",
+		"localization": {
+			"de": "TintactiX",
+			"en-gb": "SquidForce",
+			"en-us": "SquidForce",
+			"es-419": "Kalamas",
+			"es-es": "Kalamas",
+			"fr-ca": "Kalmarus",
+			"fr-fr": "Kalamarus Rex",
+			"it": "CalamaX",
+			"ja": "バトロイカ"
+		}
+	},
+	"zink": {
+		"key": "zink",
+		"localization": {
+			"de": "Sagitron",
+			"en-gb": "Zink",
+			"en-us": "Zink",
+			"es-419": "Tintaz",
+			"es-es": "Tintaz",
+			"fr-ca": "Leviathus",
+			"fr-fr": "Leviathus",
+			"it": "Totanic",
+			"ja": "アイロニック"
+		}
+	},
+	"krakon": {
+		"key": "krakon",
+		"localization": {
+			"de": "Medusa",
+			"en-gb": "Krak-On",
+			"en-us": "Krak-On",
+			"es-419": "Meddux",
+			"es-es": "Meddux",
+			"fr-ca": "Krakeurs",
+			"fr-fr": "Krakers",
+			"it": "Cnidarya",
+			"ja": "クラーゲス"
+		}
+	},
+	"rockenberg": {
+		"key": "rockenberg",
+		"localization": {
+			"de": "Rockberg",
+			"en-gb": "Rockenberg",
+			"en-us": "Rockenberg",
+			"es-419": "Rockenberg",
+			"es-es": "Rockenberg",
+			"fr-ca": "Iormungand",
+			"fr-fr": "Iormungand",
+			"it": "Rockenburg",
+			"ja": "ロッケンベルグ"
+		}
+	},
+	"zekko": {
+		"key": "zekko",
+		"localization": {
+			"de": "Zekko",
+			"en-gb": "Zekko",
+			"en-us": "Zekko",
+			"es-419": "Zekko",
+			"es-es": "Ezko",
+			"fr-ca": "Ezko",
+			"fr-fr": "Ezko",
+			"it": "Ezko",
+			"ja": "エゾッコ"
+		}
+	},
+	"forge": {
+		"key": "forge",
+		"localization": {
+			"de": "Focus",
+			"en-gb": "Forge",
+			"en-us": "Forge",
+			"es-419": "Forima",
+			"es-es": "Forima",
+			"fr-ca": "Fosia",
+			"fr-fr": "Focus",
+			"it": "Fortia",
+			"ja": "フォーリマ"
+		}
+	},
+	"firefin": {
+		"key": "firefin",
+		"localization": {
+			"de": "Rilax",
+			"en-gb": "Firefin",
+			"en-us": "Firefin",
+			"es-419": "Shachi",
+			"es-es": "Chokkor",
+			"fr-ca": "Arki",
+			"fr-fr": "Friture",
+			"it": "Torryd",
+			"ja": "ホッコリー"
+		}
+	},
+	"skalop": {
+		"key": "skalop",
+		"localization": {
+			"de": "Jakomu",
+			"en-gb": "Skalop",
+			"en-us": "Skalop",
+			"es-419": "Skalop",
+			"es-es": "Skalop",
+			"fr-ca": "P. Tonk",
+			"fr-fr": "Jack",
+			"it": "Capasaint",
+			"ja": "ホタックス"
+		}
+	},
+	"splash_mob": {
+		"key": "splash_mob",
+		"localization": {
+			"de": "Gian",
+			"en-gb": "Splash Mob",
+			"en-us": "Splash Mob",
+			"es-419": "Tinta comunal",
+			"es-es": "Jimmon",
+			"fr-ca": "Fréma",
+			"fr-fr": "Gédéon",
+			"it": "Chimmon",
+			"ja": "ジモン"
+		}
+	},
+	"inkline": {
+		"key": "inkline",
+		"localization": {
+			"de": "Alpomar",
+			"en-gb": "Inkline",
+			"en-us": "Inkline",
+			"es-419": "Moluskia",
+			"es-es": "Moluskia",
+			"fr-ca": "Abysma",
+			"fr-fr": "Abysma",
+			"it": "Maremont",
+			"ja": "シグレニ"
+		}
+	},
+	"tentatek": {
+		"key": "tentatek",
+		"localization": {
+			"de": "Tentatek",
+			"en-gb": "Tentatek",
+			"en-us": "Tentatek",
+			"es-419": "Tentáctica",
+			"es-es": "Arome",
+			"fr-ca": "Tentatek",
+			"fr-fr": "OculR",
+			"it": "Arome",
+			"ja": "アロメ"
+		}
+	},
+	"takoroka": {
+		"key": "takoroka",
+		"localization": {
+			"de": "Kalamati",
+			"en-gb": "Takoroka",
+			"en-us": "Takoroka",
+			"es-419": "Pulpioka",
+			"es-es": "Sepioca",
+			"fr-ca": "Pionic",
+			"fr-fr": "Cubic",
+			"it": "Sepia",
+			"ja": "ヤコ"
+		}
+	},
+	"cuttlegear": {
+		"key": "cuttlegear",
+		"localization": {
+			"de": "Kuttelkorps",
+			"en-gb": "Cuttlegear",
+			"en-us": "Cuttlegear",
+			"es-419": "Sepichón",
+			"es-es": "Obvius",
+			"fr-ca": "Radmaré",
+			"fr-fr": "Macalamar",
+			"it": "Krakensen",
+			"ja": "アタリメイド"
+		}
+	},
+	"kog": {
+		"key": "kog",
+		"localization": {
+			"de": "KOG",
+			"en-gb": "KOG",
+			"en-us": "KOG",
+			"es-419": "KOG",
+			"es-es": "KOG",
+			"fr-ca": "KOG",
+			"fr-fr": "KOG",
+			"it": "KOG",
+			"ja": "KOG"
+		}
+	},
+	"amiibo": {
+		"key": "amiibo",
+		"localization": {
+			"de": "amiibo",
+			"en-gb": "amiibo",
+			"en-us": "amiibo",
+			"es-419": "amiibo",
+			"es-es": "amiibo",
+			"fr-ca": "amiibo",
+			"fr-fr": "amiibo",
+			"it": "amiibo",
+			"ja": "amiibo"
+		}
+	},
+	"famitsu": {
+		"key": "famitsu",
+		"localization": {
+			"de": "Famitsu",
+			"en-gb": "Famitsu",
+			"en-us": "Famitsu",
+			"es-419": "Famitsu",
+			"es-es": "Famitsu",
+			"fr-ca": "Famitsu",
+			"fr-fr": "Famitsu",
+			"it": "Famitsu",
+			"ja": "ファミ通"
+		}
+	},
+	"squid_girl": {
+		"key": "squid_girl",
+		"localization": {
+			"de": "The SQUID GIRL",
+			"en-gb": "The SQUID GIRL",
+			"en-us": "The SQUID GIRL",
+			"es-419": "The SQUID GIRL",
+			"es-es": "The SQUID GIRL",
+			"fr-ca": "The SQUID GIRL",
+			"fr-fr": "The SQUID GIRL",
+			"it": "The SQUID GIRL",
+			"ja": "侵略！イカ娘"
+		}
+	}
+}

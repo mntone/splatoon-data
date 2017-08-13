@@ -1,0 +1,107 @@
+{
+	"bomb_rush": {
+		"key": "bomb_rush",
+		"localization": {
+			"de": "Bombenhagel",
+			"en-gb": "Bomb Rush",
+			"en-us": "Bomb Rush",
+			"es-419": "Repetidor",
+			"es-es": "Repetidor",
+			"fr-ca": "Bombardement",
+			"fr-fr": "Bombardement",
+			"it": "Moltiplicabombe",
+			"ja": "ボムラッシュ"
+		},
+		"points": 180
+	},
+	"bubbler": {
+		"key": "bubbler",
+		"localization": {
+			"de": "Kugelschild",
+			"en-gb": "Bubbler",
+			"en-us": "Bubbler",
+			"es-419": "Burbuja",
+			"es-es": "Burbuja",
+			"fr-ca": "Bouclier",
+			"fr-fr": "Bouclier",
+			"it": "Bolla scudo",
+			"ja": "バリア"
+		},
+		"points": 180
+	},
+	"echolocator": {
+		"key": "echolocator",
+		"localization": {
+			"de": "Echolokator",
+			"en-gb": "Echolocator",
+			"en-us": "Echolocator",
+			"es-419": "Ecolocalizador",
+			"es-es": "Superdetector",
+			"fr-ca": "Sonar",
+			"fr-fr": "Sonar",
+			"it": "Calamaradar",
+			"ja": "スーパーセンサー"
+		},
+		"points": 200
+	},
+	"inkstrike": {
+		"key": "inkstrike",
+		"localization": {
+			"de": "Tintferno",
+			"en-gb": "Inkstrike",
+			"en-us": "Inkstrike",
+			"es-419": "Tornado",
+			"es-es": "Tornado",
+			"fr-ca": "Tornado",
+			"fr-fr": "Missile tornade",
+			"it": "Tornado",
+			"ja": "トルネード"
+		},
+		"points": 180
+	},
+	"inkzooka": {
+		"key": "inkzooka",
+		"localization": {
+			"de": "Tintzooka",
+			"en-gb": "Inkzooka",
+			"en-us": "Inkzooka",
+			"es-419": "Cañón ciclón",
+			"es-es": "Tintazuca",
+			"fr-ca": "Lance-tornades",
+			"fr-fr": "Lance-tornades",
+			"it": "Turbinator",
+			"ja": "スーパーショット"
+		},
+		"points": 220
+	},
+	"killer_wail": {
+		"key": "killer_wail",
+		"localization": {
+			"de": "Heulboje",
+			"en-gb": "Killer Wail",
+			"en-us": "Killer Wail",
+			"es-419": "Berreón",
+			"es-es": "Tintófono",
+			"fr-ca": "Laser-perçant",
+			"fr-fr": "Haut-perceur",
+			"it": "Tintofono",
+			"ja": "メガホンレーザー"
+		},
+		"points": 180
+	},
+	"kraken": {
+		"key": "kraken",
+		"localization": {
+			"de": "Tintentitan",
+			"en-gb": "Kraken",
+			"en-us": "Kraken",
+			"es-419": "Kraken",
+			"es-es": "Supercalamar",
+			"fr-ca": "Kraken",
+			"fr-fr": "Kraken",
+			"it": "Kraken",
+			"ja": "ダイオウイカ"
+		},
+		"points": 200
+	}
+}
