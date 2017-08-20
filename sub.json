@@ -11,7 +11,8 @@
 			"fr-fr": "Bombe splash",
 			"it": "Bomba splash",
 			"ja": "スプラッシュボム"
-		}
+		},
+		"ink_consumption": 0.7
 	},
 	"suction_bomb": {
 		"key": "suction_bomb",
@@ -25,7 +26,8 @@
 			"fr-fr": "Bombe gluante",
 			"it": "Appiccibomba",
 			"ja": "キューバンボム"
-		}
+		},
+		"ink_consumption": 0.7
 	},
 	"brust_bomb": {
 		"key": "brust_bomb",
@@ -39,7 +41,8 @@
 			"fr-fr": "Bombe ballon",
 			"it": "Granata",
 			"ja": "クイックボム"
-		}
+		},
+		"ink_consumption": 0.4
 	},
 	"seeker": {
 		"key": "seeker",
@@ -53,7 +56,8 @@
 			"fr-fr": "Traqueur",
 			"it": "Bomba a ricerca",
 			"ja": "チェイスボム"
-		}
+		},
+		"ink_consumption": 0.8
 	},
 	"ink_mine": {
 		"key": "ink_mine",
@@ -67,7 +71,8 @@
 			"fr-fr": "Mine",
 			"it": "Mina",
 			"ja": "トラップ"
-		}
+		},
+		"ink_consumption": 0.5
 	},
 	"disruptor": {
 		"key": "disruptor",
@@ -81,7 +86,8 @@
 			"fr-fr": "Fiole toxique",
 			"it": "Fiala tossica",
 			"ja": "ポイズンボール"
-		}
+		},
+		"ink_consumption": 0.5
 	},
 	"point_sensor": {
 		"key": "point_sensor",
@@ -95,7 +101,8 @@
 			"fr-fr": "Détecteur",
 			"it": "Cimice",
 			"ja": "ポイントセンサー"
-		}
+		},
+		"ink_consumption": 0.4
 	},
 	"splash_wall": {
 		"key": "splash_wall",
@@ -109,7 +116,8 @@
 			"fr-fr": "Mur d'encre",
 			"it": "Muro di colore",
 			"ja": "スプラッシュシールド"
-		}
+		},
+		"ink_consumption": 0.6
 	},
 	"sprinkler": {
 		"key": "sprinkler",
@@ -123,7 +131,8 @@
 			"fr-fr": "Fontaine",
 			"it": "Spruzzatore",
 			"ja": "スプリンクラー"
-		}
+		},
+		"ink_consumption": 0.8
 	},
 	"squid_beakon": {
 		"key": "squid_beakon",
@@ -137,6 +146,7 @@
 			"fr-fr": "Balise de saut",
 			"it": "Trasferitore",
 			"ja": "ジャンプビーコン"
-		}
+		},
+		"ink_consumption": 0.9
 	}
 }
