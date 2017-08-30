@@ -12,6 +12,8 @@
 			"it": "Marker",
 			"ja": "ボールドマーカー"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "squid_beakon",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -38,6 +40,8 @@
 			"it": "Marker Neo",
 			"ja": "ボールドマーカーネオ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "kraken",
 		"special_depletion": "light",
@@ -64,6 +68,8 @@
 			"it": "Marker multi",
 			"ja": "ボールドマーカー7"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -90,6 +96,8 @@
 			"it": "Sparacolore recluta",
 			"ja": "わかばシューター"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "bubbler",
 		"special_depletion": "medium",
@@ -116,6 +124,8 @@
 			"it": "Sparacolore logo",
 			"ja": "もみじシューター"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "disruptor",
 		"special_key": "echolocator",
 		"special_depletion": "light",
@@ -142,6 +152,8 @@
 			"it": "Marker d'assalto",
 			"ja": "シャープマーカー"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "light",
@@ -168,6 +180,8 @@
 			"it": "Marker d'assalto Neo",
 			"ja": "シャープマーカーネオ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "brust_bomb",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -194,6 +208,8 @@
 			"it": "Aerografo",
 			"ja": "プロモデラーMG"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "seeker",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -220,6 +236,8 @@
 			"it": "Aerografo élite",
 			"ja": "プロモデラーRG"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "ink_mine",
 		"special_key": "inkstrike",
 		"special_depletion": "light",
@@ -246,6 +264,8 @@
 			"it": "Aerografo deluxe",
 			"ja": "プロモデラーPG"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "brust_bomb",
 		"special_key": "kraken",
 		"special_depletion": "medium",
@@ -272,6 +292,8 @@
 			"it": "Splasher",
 			"ja": "スプラシューター"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "brust_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "light",
@@ -298,6 +320,8 @@
 			"it": "Splasher logo",
 			"ja": "スプラシューターコラボ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "inkzooka",
 		"special_depletion": "heavy",
@@ -324,6 +348,8 @@
 			"it": "Splasher wasabi",
 			"ja": "スプラシューターワサビ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "inkstrike",
 		"special_depletion": "medium",
@@ -349,6 +375,8 @@
 			"it": "Pistola élite replica",
 			"ja": "ヒーローシューター レプリカ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "brust_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "light",
@@ -375,6 +403,8 @@
 			"it": "Octosplasher replica",
 			"ja": "オクタシューター レプリカ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "inkzooka",
 		"special_depletion": "heavy",
@@ -401,6 +431,8 @@
 			"it": "Calibro 2000",
 			"ja": ".52ガロン"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splash_wall",
 		"special_key": "killer_wail",
 		"special_depletion": "medium",
@@ -427,6 +459,8 @@
 			"it": "Calibro 2000 DX",
 			"ja": ".52ガロンデコ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "seeker",
 		"special_key": "inkstrike",
 		"special_depletion": "light",
@@ -453,6 +487,8 @@
 			"it": "N-ZAP85",
 			"ja": "N-ZAP85"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "echolocator",
 		"special_depletion": "light",
@@ -479,6 +515,8 @@
 			"it": "N-ZAP89",
 			"ja": "N-ZAP89"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "sprinkler",
 		"special_key": "inkstrike",
 		"special_depletion": "light",
@@ -505,6 +543,8 @@
 			"it": "N-ZAP83",
 			"ja": "N-ZAP83"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "kraken",
 		"special_depletion": "medium",
@@ -531,6 +571,8 @@
 			"it": "Calibro 3000",
 			"ja": ".96ガロン"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "sprinkler",
 		"special_key": "echolocator",
 		"special_depletion": "light",
@@ -557,6 +599,8 @@
 			"it": "Calibro 3000 DX",
 			"ja": ".96ガロンデコ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splash_wall",
 		"special_key": "kraken",
 		"special_depletion": "heavy",
@@ -583,6 +627,8 @@
 			"it": "Sweeper duo",
 			"ja": "デュアルスイーパー"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "echolocator",
 		"special_depletion": "light",
@@ -609,6 +655,8 @@
 			"it": "Sweeper duo CM",
 			"ja": "デュアルスイーパーカスタム"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "squid_beakon",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -635,6 +683,8 @@
 			"it": "Splasher élite",
 			"ja": "プライムシューター"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "inkstrike",
 		"special_depletion": "light",
@@ -661,6 +711,8 @@
 			"it": "Splasher élite logo",
 			"ja": "プライムシューターコラボ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -687,6 +739,8 @@
 			"it": "Splasher élite viola",
 			"ja": "プライムシューターベリー"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "medium",
@@ -713,6 +767,8 @@
 			"it": "Sweeper",
 			"ja": "ジェットスイーパー"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splash_wall",
 		"special_key": "inkstrike",
 		"special_depletion": "light",
@@ -739,6 +795,8 @@
 			"it": "Sweeper CM",
 			"ja": "ジェットスイーパーカスタム"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "brust_bomb",
 		"special_key": "kraken",
 		"special_depletion": "light",
@@ -765,6 +823,8 @@
 			"it": "Blaster lunar",
 			"ja": "ノヴァブラスター"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "ink_mine",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -791,6 +851,8 @@
 			"it": "Blaster lunar Neo",
 			"ja": "ノヴァブラスターネオ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "splat_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "heavy",
@@ -817,6 +879,8 @@
 			"it": "Blaster",
 			"ja": "ホットブラスター"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "disruptor",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -843,6 +907,8 @@
 			"it": "Blaster CM",
 			"ja": "ホットブラスターカスタム"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "point_sensor",
 		"special_key": "bubbler",
 		"special_depletion": "medium",
@@ -869,6 +935,8 @@
 			"it": "Blaster a distanza",
 			"ja": "ロングブラスター"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "splash_wall",
 		"special_key": "inkstrike",
 		"special_depletion": "light",
@@ -895,6 +963,8 @@
 			"it": "Blaster a distanza CM",
 			"ja": "ロングブラスターカスタム"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "splat_bomb",
 		"special_key": "kraken",
 		"special_depletion": "light",
@@ -921,6 +991,8 @@
 			"it": "Blaster a distanza dark",
 			"ja": "ロングブラスターネクロ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "brust_bomb",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -947,6 +1019,8 @@
 			"it": "Blaster rapido",
 			"ja": "ラピッドブラスター"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "ink_mine",
 		"special_key": "bubbler",
 		"special_depletion": "light",
@@ -973,6 +1047,8 @@
 			"it": "Blaster rapido DX",
 			"ja": "ラピッドブラスターデコ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "suction_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "light",
@@ -999,6 +1075,8 @@
 			"it": "Blaster élite",
 			"ja": "Rブラスターエリート"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "seeker",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -1025,6 +1103,8 @@
 			"it": "Blaster élite DX",
 			"ja": "Rブラスターエリートデコ"
 		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "disruptor",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -1051,6 +1131,8 @@
 			"it": "Triplete compatto",
 			"ja": "L3リールガン"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "disruptor",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -1077,6 +1159,8 @@
 			"it": "Triplete compatto D",
 			"ja": "L3リールガンD"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "brust_bomb",
 		"special_depletion": "medium",
 		"special_key": "kraken",
@@ -1103,6 +1187,8 @@
 			"it": "Triplete",
 			"ja": "H3リールガン"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "echolocator",
 		"special_depletion": "light",
@@ -1129,6 +1215,8 @@
 			"it": "Triplete D",
 			"ja": "H3リールガンD"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -1155,6 +1243,8 @@
 			"it": "Triplete ciliegia",
 			"ja": "H3リールガンチェリー"
 		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splash_wall",
 		"special_key": "bubbler",
 		"special_depletion": "light",
@@ -1182,6 +1272,8 @@
 			"it": "Rullo di carbonio",
 			"ja": "カーボンローラー"
 		},
+		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "brust_bomb",
 		"special_key": "inkzooka",
 		"special_depletion": "medium",
@@ -1208,6 +1300,8 @@
 			"it": "Rullo di carbonio DX",
 			"ja": "カーボンローラーデコ"
 		},
+		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "seeker",
 		"special_key": "bomb_rush",
 		"special_depletion": "light",
@@ -1234,6 +1328,8 @@
 			"it": "Rullo splat",
 			"ja": "スプラローラー"
 		},
+		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "suction_bomb",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -1260,6 +1356,8 @@
 			"it": "Rullo splat logo",
 			"ja": "スプラローラーコラボ"
 		},
+		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "squid_beakon",
 		"special_key": "kraken",
 		"special_depletion": "medium",
@@ -1286,6 +1384,8 @@
 			"it": "Rullo splat CoroCoro",
 			"ja": "スプラローラーコロコロ"
 		},
+		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "splash_wall",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -1312,6 +1412,8 @@
 			"it": "Rullo élite replica",
 			"ja": "ヒーローローラー レプリカ"
 		},
+		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "suction_bomb",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -1338,6 +1440,8 @@
 			"it": "Rullo dinamo",
 			"ja": "ダイナモローラー"
 		},
+		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "sprinkler",
 		"special_key": "echolocator",
 		"special_depletion": "heavy",
@@ -1364,6 +1468,8 @@
 			"it": "Rullo dinamo dorato",
 			"ja": "ダイナモローラーテスラ"
 		},
+		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "splat_bomb",
 		"special_key": "inkzooka",
 		"special_depletion": "heavy",
@@ -1390,6 +1496,8 @@
 			"it": "Rullo dinamo temprato",
 			"ja": "ダイナモローラーバーンド"
 		},
+		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "seeker",
 		"special_key": "killer_wail",
 		"special_depletion": "medium",
@@ -1416,6 +1524,8 @@
 			"it": "Calamaravaggio",
 			"ja": "パブロ"
 		},
+		"type_key": "roller",
+		"subtype_key": "brush",
 		"sub_key": "sprinkler",
 		"special_key": "inkstrike",
 		"special_depletion": "light",
@@ -1442,6 +1552,8 @@
 			"it": "Calamaravaggio master",
 			"ja": "パブロ・ヒュー"
 		},
+		"type_key": "roller",
+		"subtype_key": "brush",
 		"sub_key": "ink_mine",
 		"special_key": "bubbler",
 		"special_depletion": "light",
@@ -1468,6 +1580,8 @@
 			"it": "Calamaravaggio indelebile",
 			"ja": "パーマネント・パブロ"
 		},
+		"type_key": "roller",
+		"subtype_key": "brush",
 		"sub_key": "splat_bomb",
 		"special_key": "kraken",
 		"special_depletion": "light",
@@ -1494,6 +1608,8 @@
 			"it": "Tinturicchio",
 			"ja": "ホクサイ"
 		},
+		"type_key": "roller",
+		"subtype_key": "brush",
 		"sub_key": "squid_beakon",
 		"special_key": "kraken",
 		"special_depletion": "light",
@@ -1520,6 +1636,8 @@
 			"it": "Tinturicchio master",
 			"ja": "ホクサイ・ヒュー"
 		},
+		"type_key": "roller",
+		"subtype_key": "brush",
 		"sub_key": "splat_bomb",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -1547,6 +1665,8 @@
 			"it": "Kalamarapid α",
 			"ja": "スクイックリンα"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "point_sensor",
 		"special_key": "bubbler",
 		"special_depletion": "light",
@@ -1573,6 +1693,8 @@
 			"it": "Kalamarapid β",
 			"ja": "スクイックリンβ"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "ink_mine",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -1599,6 +1721,8 @@
 			"it": "Kalamarapid γ",
 			"ja": "スクイックリンγ"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "suction_bomb",
 		"special_key": "kraken",
 		"special_depletion": "medium",
@@ -1625,6 +1749,8 @@
 			"it": "Splatter a carica",
 			"ja": "スプラチャージャー"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splat_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "heavy",
@@ -1651,6 +1777,8 @@
 			"it": "Splatter a carica DX",
 			"ja": "スプラチャージャーワカメ"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "sprinkler",
 		"special_key": "killer_wail",
 		"special_depletion": "medium",
@@ -1677,6 +1805,8 @@
 			"it": "Splatter a carica picnic",
 			"ja": "スプラチャージャーベントー"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splash_wall",
 		"special_key": "echolocator",
 		"special_depletion": "medium",
@@ -1703,6 +1833,8 @@
 			"it": "Splatter élite replica",
 			"ja": "ヒーローチャージャー レプリカ"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splat_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "heavy",
@@ -1729,6 +1861,8 @@
 			"it": "Splatter con mirino",
 			"ja": "スプラスコープ"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splat_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "heavy",
@@ -1755,6 +1889,8 @@
 			"it": "Splatter con mirino DX",
 			"ja": "スプラスコープワカメ"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "sprinkler",
 		"special_key": "killer_wail",
 		"special_depletion": "medium",
@@ -1781,6 +1917,8 @@
 			"it": "Splatter con mirino picnic",
 			"ja": "スプラスコープベントー"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splash_wall",
 		"special_key": "echolocator",
 		"special_depletion": "medium",
@@ -1807,6 +1945,8 @@
 			"it": "Tinter a carica 3K",
 			"ja": "リッター3K"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "brust_bomb",
 		"special_key": "echolocator",
 		"special_depletion": "medium",
@@ -1833,6 +1973,8 @@
 			"it": "Tinter a carica CM",
 			"ja": "リッター3Kカスタム"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "squid_beakon",
 		"special_key": "kraken",
 		"special_depletion": "medium",
@@ -1859,6 +2001,8 @@
 			"it": "Tinter con mirino",
 			"ja": "3Kスコープ"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "brust_bomb",
 		"special_key": "echolocator",
 		"special_depletion": "medium",
@@ -1885,6 +2029,8 @@
 			"it": "Tinter con mirino CM",
 			"ja": "3Kスコープカスタム"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "squid_beakon",
 		"special_key": "kraken",
 		"special_depletion": "medium",
@@ -1911,6 +2057,8 @@
 			"it": "Bimbamboom 14-I",
 			"ja": "14式竹筒銃・甲"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splash_wall",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -1937,6 +2085,8 @@
 			"it": "Bimbamboom 14-II",
 			"ja": "14式竹筒銃・乙"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "disruptor",
 		"special_key": "echolocator",
 		"special_depletion": "light",
@@ -1963,6 +2113,8 @@
 			"it": "Bimbamboom 14-III",
 			"ja": "14式竹筒銃・丙"
 		},
+		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "brust_bomb",
 		"special_key": "inkstrike",
 		"special_depletion": "heavy",
@@ -1990,6 +2142,8 @@
 			"it": "Secchiostro",
 			"ja": "バケットスロッシャー"
 		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "brust_bomb",
 		"special_key": "inkstrike",
 		"special_depletion": "light",
@@ -2016,6 +2170,8 @@
 			"it": "Secchiostro DX",
 			"ja": "バケットスロッシャーデコ"
 		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "splash_wall",
 		"special_key": "kraken",
 		"special_depletion": "light",
@@ -2042,6 +2198,8 @@
 			"it": "Secchiostro frizzante",
 			"ja": "バケットスロッシャーソーダ"
 		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "splat_bomb",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -2068,6 +2226,8 @@
 			"it": "Secchiostro triplo",
 			"ja": "ヒッセン"
 		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "disruptor",
 		"special_key": "bubbler",
 		"special_depletion": "medium",
@@ -2094,6 +2254,8 @@
 			"it": "Secchiostro triplo master",
 			"ja": "ヒッセン・ヒュー"
 		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "seeker",
 		"special_key": "echolocator",
 		"special_depletion": "light",
@@ -2120,6 +2282,8 @@
 			"it": "Secchiostro centrifuga",
 			"ja": "スクリュースロッシャー"
 		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "splat_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "light",
@@ -2146,6 +2310,8 @@
 			"it": "Secchiostro centrifuga Neo",
 			"ja": "スクリュースロッシャーネオ"
 		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "point_sensor",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -2173,6 +2339,8 @@
 			"it": "Mini splatling",
 			"ja": "スプラスピナー"
 		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "suction_bomb",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -2199,6 +2367,8 @@
 			"it": "Mini splatling logo",
 			"ja": "スプラスピナーコラボ"
 		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "disruptor",
 		"special_key": "bubbler",
 		"special_depletion": "heavy",
@@ -2225,6 +2395,8 @@
 			"it": "Mini splatling modificato",
 			"ja": "スプラスピナーリペア"
 		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "brust_bomb",
 		"special_key": "bomb_rush",
 		"special_depletion": "light",
@@ -2251,6 +2423,8 @@
 			"it": "Splatling a tanica",
 			"ja": "バレルスピナー"
 		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "splash_wall",
 		"special_key": "inkstrike",
 		"special_depletion": "light",
@@ -2277,6 +2451,8 @@
 			"it": "Splatling a tanica DX",
 			"ja": "バレルスピナーデコ"
 		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "point_sensor",
 		"special_key": "kraken",
 		"special_depletion": "medium",
@@ -2303,6 +2479,8 @@
 			"it": "Splatling a tanica techno",
 			"ja": "バレルスピナーリミックス"
 		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "sprinkler",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -2329,6 +2507,8 @@
 			"it": "Idrante",
 			"ja": "ハイドラント"
 		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "splat_bomb",
 		"special_key": "echolocator",
 		"special_depletion": "light",
@@ -2355,6 +2535,8 @@
 			"it": "Idrante CM",
 			"ja": "ハイドラントカスタム"
 		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "sprinkler",
 		"special_key": "bubbler",
 		"special_depletion": "light",

@@ -1,0 +1,177 @@
+{
+	"shooter": {
+		"key": "shooter",
+		"localization": {
+			"de": "Kleckser",
+			"en-gb": "Shooter",
+			"en-us": "Shooter",
+			"es-419": "Rociador",
+			"es-es": "Lanzatintas",
+			"fr-ca": "Lanceur",
+			"fr-fr": "Lanceur",
+			"it": "Arma a ripetizione",
+			"ja": "シューター"
+		},
+		"plural": {
+			"de": "Klecksern",
+			"en-gb": "Shooters",
+			"en-us": "Shooters",
+			"es-419": "Rociadors",
+			"es-es": "Lanzatintas",
+			"fr-ca": "Lanceurs",
+			"fr-fr": "Lanceurs",
+			"it": "Armi a ripetizione",
+			"ja": "シューター"
+		}
+	},
+	"blaster": {
+		"key": "blaster",
+		"localization": {
+			"de": "Blaster",
+			"en-gb": "Blaster",
+			"en-us": "Blaster",
+			"es-419": "Lanzamotas",
+			"es-es": "Devastador",
+			"fr-ca": "Blaster",
+			"fr-fr": "Blaster",
+			"it": "Blaster",
+			"ja": "ブラスター"
+		},
+		"plural": {
+			"de": "Blasters",
+			"en-gb": "Blasters",
+			"en-us": "Blasters",
+			"es-419": "Lanzamotas",
+			"es-es": "Devastador",
+			"fr-ca": "Blasters",
+			"fr-fr": "Blasters",
+			"it": "Blasters",
+			"ja": "ブラスター"
+		}
+	},
+	"roller": {
+		"key": "roller",
+		"localization": {
+			"de": "Roller",
+			"en-gb": "Roller",
+			"en-us": "Roller",
+			"es-419": "Rodillo",
+			"es-es": "Rodillo",
+			"fr-ca": "Rouleau",
+			"fr-fr": "Rouleau",
+			"it": "Rullo",
+			"ja": "ローラー"
+		},
+		"plural": {
+			"de": "Rollern",
+			"en-gb": "Rollers",
+			"en-us": "Rollers",
+			"es-419": "Rodillos",
+			"es-es": "Rodillos",
+			"fr-ca": "Rouleaux",
+			"fr-fr": "Rouleaux",
+			"it": "Rulli",
+			"ja": "ローラー"
+		}
+	},
+	"brush": {
+		"key": "brush",
+		"localization": {
+			"de": "",
+			"en-gb": "Brush",
+			"en-us": "Brush",
+			"es-419": "",
+			"es-es": "",
+			"fr-ca": "Pinceau",
+			"fr-fr": "Pinceau",
+			"it": "Pennello",
+			"ja": "フデ"
+		},
+		"plural": {
+			"de": "",
+			"en-gb": "Brushes",
+			"en-us": "Brushes",
+			"es-419": "",
+			"es-es": "",
+			"fr-ca": "Pinceaux",
+			"fr-fr": "Pinceaux",
+			"it": "Pennelli",
+			"ja": "フデ"
+		}
+	},
+	"charger": {
+		"key": "charger",
+		"localization": {
+			"de": "Konzentrator",
+			"en-gb": "Charger",
+			"en-us": "Charger",
+			"es-419": "Cargatintas",
+			"es-es": "Cargatintas",
+			"fr-ca": "Sniper",
+			"fr-fr": "Sniper",
+			"it": "Arma a carica",
+			"ja": "チャージャー"
+		},
+		"plural": {
+			"de": "Konzentratoren",
+			"en-gb": "Chargers",
+			"en-us": "Chargers",
+			"es-419": "Cargatintas",
+			"es-es": "Cargatintas",
+			"fr-ca": "Snipers",
+			"fr-fr": "Snipers",
+			"it": "Armi a carica",
+			"ja": "チャージャー"
+		}
+	},
+	"slosher": {
+		"key": "slosher",
+		"localization": {
+			"de": "Schwapper",
+			"en-gb": "Slosher",
+			"en-us": "Slosher",
+			"es-419": "Derramatic",
+			"es-es": "Derramatic",
+			"fr-ca": "Seauceur",
+			"fr-fr": "Seauceur",
+			"it": "Secchiostro",
+			"ja": "スロッシャー"
+		},
+		"plural": {
+			"de": "Schwappern",
+			"en-gb": "Sloshers",
+			"en-us": "Sloshers",
+			"es-419": "Derramatic",
+			"es-es": "Derramatic",
+			"fr-ca": "Seauceurs",
+			"fr-fr": "Seauceurs",
+			"it": "Secchiostri",
+			"ja": "スロッシャー"
+		}
+	},
+	"splatling": {
+		"key": "splatling",
+		"localization": {
+			"de": "Splatling",
+			"en-gb": "Splatling",
+			"en-us": "Splatling",
+			"es-419": "Garabateador",
+			"es-es": "Tintralladora",
+			"fr-ca": "Badigeonneur",
+			"fr-fr": "Badigeonneur",
+			"it": "Splatling",
+			"ja": "スピナー"
+		},
+		"plural": {
+			"de": "Splatlings",
+			"en-gb": "Splatlings",
+			"en-us": "Splatlings",
+			"es-419": "Garabateador",
+			"es-es": "Tintralladoras",
+			"fr-ca": "Badigeonneurs",
+			"fr-fr": "Badigeonneurs",
+			"it": "Splatlings",
+			"ja": "スピナー"
+		}
+	}
+}
