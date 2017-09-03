@@ -30,7 +30,7 @@
 		"ink_consumption": 0.7
 	},
 	"burst_bomb": {
-		"key": "brust_bomb",
+		"key": "burst_bomb",
 		"localization": {
 			"de": "Insta-Bombe",
 			"en-gb": "Burst Bomb",
