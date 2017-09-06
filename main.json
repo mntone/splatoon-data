@@ -1132,7 +1132,7 @@
 			"ja": "L3リールガン"
 		},
 		"type_key": "shooter",
-		"subtype_key": "shooter",
+		"subtype_key": "nozzlenose",
 		"sub_key": "disruptor",
 		"special_key": "killer_wail",
 		"special_depletion": "light",
@@ -1160,7 +1160,7 @@
 			"ja": "L3リールガンD"
 		},
 		"type_key": "shooter",
-		"subtype_key": "shooter",
+		"subtype_key": "nozzlenose",
 		"sub_key": "burst_bomb",
 		"special_depletion": "medium",
 		"special_key": "kraken",
@@ -1188,7 +1188,7 @@
 			"ja": "H3リールガン"
 		},
 		"type_key": "shooter",
-		"subtype_key": "shooter",
+		"subtype_key": "nozzlenose",
 		"sub_key": "suction_bomb",
 		"special_key": "echolocator",
 		"special_depletion": "light",
@@ -1216,7 +1216,7 @@
 			"ja": "H3リールガンD"
 		},
 		"type_key": "shooter",
-		"subtype_key": "shooter",
+		"subtype_key": "nozzlenose",
 		"sub_key": "point_sensor",
 		"special_key": "inkzooka",
 		"special_depletion": "light",
@@ -1244,7 +1244,7 @@
 			"ja": "H3リールガンチェリー"
 		},
 		"type_key": "shooter",
-		"subtype_key": "shooter",
+		"subtype_key": "nozzlenose",
 		"sub_key": "splash_wall",
 		"special_key": "bubbler",
 		"special_depletion": "light",

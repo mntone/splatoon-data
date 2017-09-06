@@ -49,6 +49,31 @@
 			"ja": "ブラスター"
 		}
 	},
+	"nozzlenose": {
+		"key": "nozzlenose",
+		"localization": {
+			"de": "Tintenwerfer",
+			"en-gb": "Nozzlenose",
+			"en-us": "Nozzlenose",
+			"es-419": "Manguera",
+			"es-es": "Tintambor",
+			"fr-ca": "Arroseur",
+			"fr-fr": "Arroseur",
+			"it": "Arma a triplete",
+			"ja": "リールガン"
+		},
+		"plural": {
+			"de": "Tintenwerfern",
+			"en-gb": "Nozzlenoses",
+			"en-us": "Nozzlenoses",
+			"es-419": "Mangueras",
+			"es-es": "Tintambores",
+			"fr-ca": "Arroseur",
+			"fr-fr": "Arroseurs",
+			"it": "Armi a triplete",
+			"ja": "リールガン"
+		}
+	},
 	"roller": {
 		"key": "roller",
 		"localization": {
