@@ -367,7 +367,8 @@
 		"key": "hero_shot",
 		"localization": {
 			"de": "Heldenwaffe Replik",
-			"en": "Hero Shot Replica",
+			"en-gb": "Hero Shot Replica",
+			"en-us": "Hero Shot Replica",
 			"es-419": "Rociador de élite réplica",
 			"es-es": "Pistola de élite (réplica)",
 			"fr-ca": "Liquéfi. héroïque (rép.)",
